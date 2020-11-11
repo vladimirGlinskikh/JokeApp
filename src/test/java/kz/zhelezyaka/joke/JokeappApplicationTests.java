@@ -1,4 +1,4 @@
-package kz.zhelezyaka.joke.jokeapp;
+package kz.zhelezyaka.joke;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

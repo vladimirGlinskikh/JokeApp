@@ -1,4 +1,4 @@
-package kz.zhelezyaka.joke.jokeapp;
+package kz.zhelezyaka.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
